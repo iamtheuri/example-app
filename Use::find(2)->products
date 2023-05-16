@@ -1,0 +1,15 @@
+[90m= [39m[34;4mApp\Models\Product[39;24m {#6919
+    [34mid[39m: [35m1[39m,
+    [34muser_id[39m: [35m1[39m,
+    [34mtitle[39m: "[32mDelectus quae perferendis ut optio.[39m",
+    [34mlogo[39m: [36mnull[39m,
+    [34mtags[39m: "[32mlaravel, api, backend[39m",
+    [34mcompany[39m: "[32mKrajcik Inc[39m",
+    [34mlocation[39m: "[32mSouth Cristianside[39m",
+    [34memail[39m: "[32merolfson@tromp.com[39m",
+    [34mwebsite[39m: "[32mhttp://harris.com/[39m",
+    [34mdescription[39m: "[32mQuo deleniti a unde. Reprehenderit fugiat eum officia consequatur dolorem dolores. Vel et quas vero optio rem et aut est. In illo minima repellat. Dolore dolores ipsum nostrum voluptas minima est quod. Quaerat illo commodi rerum ut. Enim modi et odio animi aut eaque.[39m",
+    [34mcreated_at[39m: "[32m2023-05-15 17:53:37[39m",
+    [34mupdated_at[39m: "[32m2023-05-15 17:53:37[39m",
+  }
+
