@@ -14,7 +14,7 @@
           value="{{$product->company}}" />
 
         @error('company')
-        <p class="text-red-500 text-xs mt-1">{{$message}}</p>
+          <p class="text-red-500 text-xs mt-1">{{$message}}</p>
         @enderror
       </div>
 
@@ -104,7 +104,9 @@
           Update Gig
         </button>
 
-        <a href="/" class="text-black ml-4"> Back </a>
+        <button class="bg-black text-white rounded py-2 px-4 hover:bg-red">
+          <a href="/"> Back </a>
+        </button>
       </div>
     </form>
   </x-card>
